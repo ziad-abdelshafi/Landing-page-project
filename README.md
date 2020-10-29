@@ -1,13 +1,11 @@
-# Landing Page Project
+# Landing page Project
 
-## Table of Contents
+This project is The first project from the udacity fwd professional course.
 
-* [Instructions](#instructions)
+## Description
 
-## Instructions
-
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+This is a multi-section landing page with a dynamically built navigation bar.
+Most of the html and css code was provided as a starter code.
+When a navigation item is clicked the page scrolls to the selected section.
+There is an active state added to navigation items when a section is in the viewport.
+The navigation bar is hidden While the user is not scrolling and not hovering over the navigation bar.
